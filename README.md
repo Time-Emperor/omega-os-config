@@ -26,11 +26,9 @@ Gaming: steam, lib32-mesa, and lib32-nvidia-utils are included for 32-bit applic
 
 Download Omega OS
 
-The latest stable release is available on SourceForge:
+Click below to download the most recent stable ISO:
 
-[![Download Omega OS](https://img.shields.io/badge/Download-SourceForge-orange?style=for-the-badge&logo=sourceforge)](https://sourceforge.net/projects/omega-os/files/omega-os-2025.12.31-x86_64.iso/download)
-
-[View all mirrors and checksums on SourceForge](https://sourceforge.net/projects/omega-os/files/)
+[Download Latest Version](https://sourceforge.net/projects/omega-os/files/latest/download)
 
 Verify: Check the file integrity using the hash provided below.
 
